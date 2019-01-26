@@ -26,5 +26,18 @@ namespace Microsoft.EntityFrameworkCore
         {
             return BatchInsert.Execute(dbContext, entities);
         }
+
+        /// <summary>
+        /// Inserts multiple records
+        /// </summary>
+        /// <typeparam name="TEntity"></typeparam>
+        /// <param name="dbContext"></param>
+        /// <param name="tableName"></param>
+        /// <param name="entities"></param>
+        /// <param name="schema"></param>
+        public static int BulkInsert<TEntity>(this DbContext dbContext, string tableName, IEnumerable<TEntity> entities, string schema = null)
+        {
+            return BatchInsert.Execute(dbContext, tableName, entities, schema);
+        }
     }
 }

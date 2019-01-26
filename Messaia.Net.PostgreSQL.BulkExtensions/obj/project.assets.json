@@ -2777,13 +2777,13 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
-    "version": "2.2.0",
+    "version": "2.2.1-beta01",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\Web\\Libraries\\Messaia\\C#\\Messaia.Net.PostgreSQL.BulkExtensions\\Messaia.Net.PostgreSQL.BulkExtensions\\Messaia.Net.PostgreSQL.BulkExtensions.csproj",
+      "projectUniqueName": "D:\\Projects\\Web\\Libraries\\Messaia\\C#\\PostgreSQL.BulkExtensions\\Messaia.Net.PostgreSQL.BulkExtensions\\Messaia.Net.PostgreSQL.BulkExtensions.csproj",
       "projectName": "Messaia.Net.PostgreSQL.BulkExtensions",
-      "projectPath": "D:\\Projects\\Web\\Libraries\\Messaia\\C#\\Messaia.Net.PostgreSQL.BulkExtensions\\Messaia.Net.PostgreSQL.BulkExtensions\\Messaia.Net.PostgreSQL.BulkExtensions.csproj",
+      "projectPath": "D:\\Projects\\Web\\Libraries\\Messaia\\C#\\PostgreSQL.BulkExtensions\\Messaia.Net.PostgreSQL.BulkExtensions\\Messaia.Net.PostgreSQL.BulkExtensions.csproj",
       "packagesPath": "C:\\Users\\fouad\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\Web\\Libraries\\Messaia\\C#\\Messaia.Net.PostgreSQL.BulkExtensions\\Messaia.Net.PostgreSQL.BulkExtensions\\obj\\",
+      "outputPath": "D:\\Projects\\Web\\Libraries\\Messaia\\C#\\PostgreSQL.BulkExtensions\\Messaia.Net.PostgreSQL.BulkExtensions\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

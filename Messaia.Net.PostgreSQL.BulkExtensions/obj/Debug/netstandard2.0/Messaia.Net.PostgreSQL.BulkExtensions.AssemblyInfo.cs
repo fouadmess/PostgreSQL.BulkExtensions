@@ -16,11 +16,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCopyrightAttribute("2019, MESSAIA.NET, all Rights Reserved. Licensed under the Apache License, Versio" +
     "n 2.0. See the LICENSE file in the project root for more information.")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Bulk operations (Insert) for PostgreSQL")]
-[assembly: System.Reflection.AssemblyFileVersionAttribute("2.2.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("2.2.0")]
+[assembly: System.Reflection.AssemblyFileVersionAttribute("2.2.1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("2.2.1-beta01")]
 [assembly: System.Reflection.AssemblyProductAttribute("Messaia.Net.PostgreSQL.BulkExtensions")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Messaia.Net.PostgreSQL.BulkExtensions")]
-[assembly: System.Reflection.AssemblyVersionAttribute("2.2.0.0")]
+[assembly: System.Reflection.AssemblyVersionAttribute("2.2.1.0")]
 
 // Von der MSBuild WriteCodeFragment-Klasse generiert.
 
