@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <PackageId>Messaia.Net.PostgreSQL.BulkExtensions</PackageId>
+    <Description>Bulk operations (Insert) for PostgreSQL</Description>
+    <Copyright>2019, MESSAIA.NET, all Rights Reserved. Licensed under the Apache License, Version 2.0. See the LICENSE file in the project root for more information.</Copyright>
+    <Company>MESSAIA.NET</Company>
+    <Authors>Fouad Messaia</Authors>
+    <Version>2.2.0</Version>
+    <AssemblyVersion>2.2.0.0</AssemblyVersion>
+    <FileVersion>2.2.0.0</FileVersion>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <IncludeSymbols>True</IncludeSymbols>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="2.2.0" />
+  </ItemGroup>
+
+</Project>

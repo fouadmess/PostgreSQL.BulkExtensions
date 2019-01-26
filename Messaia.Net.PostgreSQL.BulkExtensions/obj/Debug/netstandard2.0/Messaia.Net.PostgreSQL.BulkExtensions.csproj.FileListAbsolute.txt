@@ -1,0 +1,6 @@
+D:\Projects\Web\Libraries\Messaia\C#\Messaia.Net.PostgreSQL.BulkExtensions\Messaia.Net.PostgreSQL.BulkExtensions\bin\Debug\netstandard2.0\Messaia.Net.PostgreSQL.BulkExtensions.deps.json
+D:\Projects\Web\Libraries\Messaia\C#\Messaia.Net.PostgreSQL.BulkExtensions\Messaia.Net.PostgreSQL.BulkExtensions\bin\Debug\netstandard2.0\Messaia.Net.PostgreSQL.BulkExtensions.dll
+D:\Projects\Web\Libraries\Messaia\C#\Messaia.Net.PostgreSQL.BulkExtensions\Messaia.Net.PostgreSQL.BulkExtensions\obj\Debug\netstandard2.0\Messaia.Net.PostgreSQL.BulkExtensions.csprojAssemblyReference.cache
+D:\Projects\Web\Libraries\Messaia\C#\Messaia.Net.PostgreSQL.BulkExtensions\Messaia.Net.PostgreSQL.BulkExtensions\obj\Debug\netstandard2.0\Messaia.Net.PostgreSQL.BulkExtensions.csproj.CoreCompileInputs.cache
+D:\Projects\Web\Libraries\Messaia\C#\Messaia.Net.PostgreSQL.BulkExtensions\Messaia.Net.PostgreSQL.BulkExtensions\obj\Debug\netstandard2.0\Messaia.Net.PostgreSQL.BulkExtensions.AssemblyInfoInputs.cache
+D:\Projects\Web\Libraries\Messaia\C#\Messaia.Net.PostgreSQL.BulkExtensions\Messaia.Net.PostgreSQL.BulkExtensions\obj\Debug\netstandard2.0\Messaia.Net.PostgreSQL.BulkExtensions.AssemblyInfo.cs
