@@ -10,7 +10,7 @@
     <Copyright>2019, MESSAIA.NET, all Rights Reserved. Licensed under the Apache License, Version 2.0. See the LICENSE file in the project root for more information.</Copyright>
     <Company>MESSAIA.NET</Company>
     <Authors>Fouad Messaia</Authors>
-    <Version>2.2.1-beta01</Version>
+    <Version>2.2.1</Version>
     <AssemblyVersion>2.2.1.0</AssemblyVersion>
     <FileVersion>2.2.1.0</FileVersion>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>

@@ -17,7 +17,7 @@ using System.Reflection;
     "n 2.0. See the LICENSE file in the project root for more information.")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Bulk operations (Insert) for PostgreSQL")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("2.2.1.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("2.2.1-beta01")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("2.2.1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Messaia.Net.PostgreSQL.BulkExtensions")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Messaia.Net.PostgreSQL.BulkExtensions")]
 [assembly: System.Reflection.AssemblyVersionAttribute("2.2.1.0")]

@@ -2777,7 +2777,7 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
-    "version": "2.2.1-beta01",
+    "version": "2.2.1",
     "restore": {
       "projectUniqueName": "D:\\Projects\\Web\\Libraries\\Messaia\\C#\\PostgreSQL.BulkExtensions\\Messaia.Net.PostgreSQL.BulkExtensions\\Messaia.Net.PostgreSQL.BulkExtensions.csproj",
       "projectName": "Messaia.Net.PostgreSQL.BulkExtensions",

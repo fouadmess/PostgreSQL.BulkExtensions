@@ -46,6 +46,12 @@ namespace Messaia.Net.PostgreSQL.BulkExtensions
                 throw new ArgumentNullException(nameof(entities));
             }
 
+            /* NoOp */
+            if (entities.Count() == 0)
+            {
+                return 0;
+            }
+
             /* Get the underlying ADO.NET DbConnection for this DbContext */
             var connection = dbContext.Database.GetDbConnection();
 
@@ -163,6 +169,12 @@ namespace Messaia.Net.PostgreSQL.BulkExtensions
             if (entities == null)
             {
                 throw new ArgumentNullException(nameof(entities));
+            }
+
+            /* NoOp */
+            if (entities.Count() == 0)
+            {
+                return 0;
             }
 
             /* Get the underlying ADO.NET DbConnection for this DbContext */
